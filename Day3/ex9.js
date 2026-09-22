@@ -14,12 +14,12 @@ function isAnagram(str1, str2){
                 count++;
         }
         if (count == str1.length)
-            console.log("The two strings are anagrams")
+            console.log("The two strings are anagrams");
         else
-            console.log("The two strings are NOT anagrams")
+            console.log("The two strings are NOT anagrams");
     }
     else
-        console.log("The two strings are NOT anagrams")
+        console.log("The two strings are NOT anagrams");
 }
 
-isAnagram("achraf", "rahcaf")
+isAnagram("achraf", "rahcaf");

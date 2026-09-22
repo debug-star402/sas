@@ -16,4 +16,4 @@ function filteredArr(arr){
     return newArr;
 }
 
-console.log(filteredArr([1,1, 2, 2, 2, 5,5, 4, 4, 6,6]))
+console.log(filteredArr([1, 2, 2, 3, 1, 4, 3]))
